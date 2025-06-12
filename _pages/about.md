@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Under Construction! **
+**Site Under Construction! **
 
 ## 👋 Welcome
 
@@ -15,7 +15,7 @@ Welcome to my homepage, and thank you for stopping by. My name is **Abolfazl Sha
 My research lies at the intersection of **application-driven signal processing**, **physics-informed machine learning**, and the **intelligent modeling and control of high-impact, physically grounded systems**. I apply these tools to several domains with real-world significance, including:
 
 - **Neurorehabilitation robotics**, focusing on intuitive control of assistive hand exoskeletons for individuals post-stroke  
-- **Battery management systems**, especifically SOC and SOH estimation for Li-ion batteries and EVs
+- **Battery management systems**, specifically SOC and SOH estimation for Li-ion batteries and EVs
 - **Autonomous systems**, where robust, data-driven control must operate under tight safety constraints
 
 I am currently a Graduate Research Assistant in the [**Hand Rehabilitation Lab**](https://handrehablab.wordpress.ncsu.edu/), where I work under the supervision of [**Professor Derek Kamper**](https://bme.unc.edu/bme-person/derek-kamper/). My current research focuses on the **real-time control of assistive hand exoskeletons** using **high-density surface electromyography (HD-sEMG)** to decode neural intent in individuals recovering from stroke.
