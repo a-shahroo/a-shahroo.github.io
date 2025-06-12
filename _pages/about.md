@@ -1,8 +1,9 @@
 ---
+permalink: /
 title: "Abolfazl (Abol Fazl) Shahrooei"
-permalink: /about/
 author_profile: true
 redirect_from: 
+  - /about/
   - /about.html
 ---
 
@@ -46,7 +47,6 @@ Please feel free to reach out if you have questions, ideas, or are interested in
   *K.N.Toosi University*, Tehran, Iran   
 
 
----
 
 
 
