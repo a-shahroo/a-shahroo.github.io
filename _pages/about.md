@@ -3,7 +3,7 @@ title: "Abolfazl (Abol Fazl) Shahrooei"
 permalink: /about/
 author_profile: true
 redirect_from: 
-  - /about/
+  - 
   - /about.html
 ---
 
