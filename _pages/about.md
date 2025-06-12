@@ -24,7 +24,7 @@ I am currently a **Graduate Research Assistant** in the **Hand Rehabilitation La
 Please feel free to reach out if you have questions, ideas, or are interested in collaboration. I’m always happy to connect.
 
 ---
-{%- comment -%}
+
 ## 🔬 Research Interests
 
 - Neural interface design for intuitive assistive robotics  
@@ -33,7 +33,7 @@ Please feel free to reach out if you have questions, ideas, or are interested in
 - State estimation and control in battery management systems  
 - Real-time control algorithms for autonomous and physically interactive systems  
 - Optimization and inference in high-dimensional biomedical signals
-{%- endcomment -%}
+
 ---
 
 ## 🎓 Education
@@ -45,7 +45,7 @@ Please feel free to reach out if you have questions, ideas, or are interested in
   *Shahed university*, Tehran, Iran   
 
 - **B.Sc. in Electrical Engineering**  
-  *K.N.Toosi University*, tehran, Iran   
+  *K.N.Toosi University*, Tehran, Iran   
 
 
 ---
