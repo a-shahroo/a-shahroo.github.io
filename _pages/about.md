@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{%- comment -%}
----
-title: "About Me"
-permalink: /about/
-layout: single
-author_profile: true
----
-{%- endcomment -%}
+
 ## 👋 Welcome
 
 Welcome to my homepage, and thank you for visiting. My name is **Abolfazl Shahrooei**, though I often go by **Abol** for short — it's simpler, and I enjoy the familiarity it brings. I am currently a **Ph.D. student** in the **Department of Electrical and Computer Engineering at North Carolina State University**.
