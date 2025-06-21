@@ -23,7 +23,7 @@ author_profile: true
 
 - R. Roy, A. Sprague, A. Shahrooei, X. Hu, and D. G. Kamper, “Multi-Day Reliability of High-Density Electromyography for Continuous Control of Assistive Devices,” accepted for presentation at *2025 47th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*, July 2025.
 
-- Abolfazl Shahrooei, “[Comparison of Open Datasets for Lithium-ion Battery Testing](https://medium.com/batterybits/comparison-of-open-datasets-for-lithium-ion-battery-testing-8ff173ec9cb8),” published by BatteryBits, Medium.com.
+- Abolfazl Shahrooei, “Comparison of Open Datasets for Lithium-ion Battery Testing” published by BatteryBits, Medium.com.
 
 - Shahrooei, A. and Kazemi, M. H., “Multiple Model Adaptive Attitude Control of LEO Satellite with Angular Velocity Constraints,” *International Journal of Aeronautical and Space Sciences*, vol. 19, no. 1, pp. 153–161, Mar. 2018, doi: [10.1007/s42405-018-0013-7](https://doi.org/10.1007/s42405-018-0013-7).
 
