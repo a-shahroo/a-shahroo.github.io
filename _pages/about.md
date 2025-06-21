@@ -39,22 +39,20 @@ If you’re interested in my research, have questions, or are exploring potentia
 - **Ph.D. Student**, Electrical and Computer Engineering  
   *North Carolina State University*, Raleigh, NC  
   *Research:* Real-time control of a hand exoskeleton for post-stroke rehabilitation using HD-sEMG  
-  *Advisor:* Professor Derek Kamper  
+  *Advisor and mentor:* Professor Derek Kamper  
 
 - **M.Sc. in Electrical Engineering**, Control Systems (Ranked 2nd)  
   *Shahed University*, Tehran, Iran  
-  *Thesis:* Robust Multiple Model Adaptive Control of Satellite Attitude  
+  *Thesis:* Robust multiple model adaptive control of satellite attitude  
   *Supervisor:* Dr. M. H. Kazemi · *Advisor:* Prof. A. Khaki-Sedigh  
 
 - **B.Sc. in Electrical Engineering**, Control Systems  
   *K. N. Toosi University of Technology*, Tehran, Iran  
-  *Project:* Design and Prototyping of a Turbo Molecular Pump Controller with BLDC Motor  
+  *Project:* Design and prototyping of a turbo molecular pump controller with BLDC motor  
 
 - **Diploma in Mathematics and Physics**  
-  *Rasool Akram Governmental High School for Exceptionally Talented Students*, Behbahan, Iran  
+  *Rasool Akram governmental high school for talented students*, Behbahan, Iran  
 
 ---
 
-<div style="text-align: center; margin: 3em 0;">
-  <img src="{{ '/images/home.jpg' | relative_url }}" alt="Research Overview" style="max-width: 80%; border-radius: 12px;" />
-</div>
+
