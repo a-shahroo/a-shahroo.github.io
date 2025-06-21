@@ -11,7 +11,7 @@ layout: archive
 
 Here I list selected software tools, scripts, and research codebases I have developed or contributed to as part of my research and teaching efforts.
 
----
+
 
 ## Real-Time HD-sEMG Motor Intent Decoder
 
@@ -22,7 +22,7 @@ A MATLAB-based pipeline for real-time decomposition of high-density surface EMG 
 - 📄 Description: Extracts motor unit firings from HD-sEMG and decodes finger-level motor intent.
 {% endcoment %}
 
----
+
 
 ## Battery RUL Prediction Toolkit
 
@@ -32,7 +32,6 @@ A machine learning framework to predict remaining useful life of lithium-ion bat
 - 🛠️ Technologies: Python, scikit-learn, TensorFlow
 - 📄 Description: Provides preprocessing, feature extraction, and time-to-failure estimation tools.
 
----
 
 ## Motion Planning Sandbox
 
