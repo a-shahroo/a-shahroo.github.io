@@ -10,8 +10,8 @@
 main:
   - title: "Home" 
     url: /
-  - title: "Research and Work"
-    url: /research/
+ # - title: "Research and Work"
+#    url: /research/
 
   - title: "Publications"
     url: /publications/
@@ -25,8 +25,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: Miscellaneous
-    url: /miscellaneous/
+  #- title: Miscellaneous
+   # url: /miscellaneous/
    
     
 #  - title: "Portfolio"
