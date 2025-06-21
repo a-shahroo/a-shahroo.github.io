@@ -20,7 +20,7 @@ A MATLAB-based pipeline for real-time decomposition of high-density surface EMG 
 - 🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/hdsemg-decoder)
 - 🛠️ Technologies: Python, NumPy, FastICA, PyTorch
 - 📄 Description: Extracts motor unit firings from HD-sEMG and decodes finger-level motor intent.
-{% endcoment %}
+{% endcomment %}
 
 
 
