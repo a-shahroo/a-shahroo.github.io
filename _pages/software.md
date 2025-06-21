@@ -6,7 +6,10 @@ layout: archive
 ---
 
 {% if site.author.github %}
-  <div class="wordwrap">You can also find my projects on <a href="https://github.com/{{ site.author.github }}">my GitHub profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my projects on 
+    <a href="https://github.com/{{ site.author.github | uri_escape }}">{{ site.author.github }}</a>.
+  </div>
 {% endif %}
 
 Here I list selected software tools, scripts, and research codebases I have developed or contributed to as part of my research and teaching efforts.
