@@ -10,14 +10,14 @@ author_profile: true
   You can also find my articles on <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>.
 </div>
 {% endif %}
-
+<!--
 ## 📝 In Progress
 
 - A. Shahrooei, L. Arthur, and D. Kamper, “Neuromorphic Decoding of Continuous Finger Force Using Spiking Neural Networks,” abstract in preparation for submission to the *12th Annual IEEE EMBS International Conference on Neural Engineering (NER 2025)*, San Diego, CA, USA, Nov. 11–14, 2025.
 
 - A. Shahrooei, M. Barzegar, and O. Shekoofa, “Li-Ion Battery Remaining Useful Life Prediction Using Deep Neural Networks,” manuscript in preparation.
 
-- Abolfazl Shahrooei and Mohsen Barzegar, “A Versatile Framework for Real-Time Local Motion Planning in Automated Driving,” manuscript in preparation.
+- Abolfazl Shahrooei and Mohsen Barzegar, “A Versatile Framework for Real-Time Local Motion Planning in Automated Driving,” manuscript in preparation.-->
 
 ## 📚 Published / Accepted
 
