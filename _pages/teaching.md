@@ -6,9 +6,7 @@ author_profile: true
 
 ## My Teaching Approach
 
-Teaching has always been a rewarding part of my academic journey. I aim to create an environment where students not only learn technical material but also develop a strong intuitive grasp of the underlying ideas. My goal is to help students visualize and internalize the concepts—to understand not just what an equation says, but why it says it, almost as if they’re reading a meaningful sentence in their native language.
-
-I focus on guiding students step by step through both theory and application, carefully tracking their comprehension and remaining attentive to where their understanding might hesitate or deepen. I try to make learning a natural and almost subconscious process by emphasizing key ideas, offering multiple visual perspectives, and reinforcing core concepts through repetition, structured outlines, and layered reviews. Ultimately, I hope to help students build lasting intuition and confidence in both abstract thinking and practical problem-solving.
+Teaching has always been a rewarding part of my academic journey. I aim to create an environment where students not only learn technical material but also develop a strong intuitive grasp of the underlying ideas. My goal is to help students visualize and internalize the concepts, to understand not just what an equation says, but why it says it, almost as if they’re reading a meaningful sentence in their native language. I focus on guiding students step by step through both theory and application, and carefully track  their comprehension while attentive to where their understanding might hesitate or deepen. I try to make learning a natural and almost subconscious process by emphasizing key ideas, offering multiple visual perspectives, and reinforcing core concepts through repetition, structured outlines, and layered reviews. Ultimately, I hope to help students build lasting intuition and confidence in both abstract thinking and practical problem-solving.
 
 <div style="text-align: center; margin: 2em 0;">
   <img src="{{ '/images/teaching1.jpg' | relative_url }}" alt="Teaching Philosophy" style="max-width: 80%; border-radius: 12px;" />
