@@ -31,6 +31,7 @@ A MATLAB-based pipeline for real-time decomposition of high-density surface EMG 
 ## Battery RUL Prediction Toolkit
 
 A machine learning framework to predict remaining useful life of lithium-ion batteries using DNNs and CNNs.
+
 <!--
 - 🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/battery-rul)
 - 🛠️ Technologies: Python, scikit-learn, TensorFlow
@@ -42,6 +43,7 @@ A machine learning framework to predict remaining useful life of lithium-ion bat
 ## Motion Planning Sandbox
 
 An experimental C++/Python toolkit for benchmarking real-time local path planning algorithms for autonomous driving.
+
 <!--
 - 🔗 [GitHub Repository](https://github.com/YOUR_USERNAME/path-planning-sandbox)
 - 🛠️ Technologies: C++, Python, ROS, RViz
