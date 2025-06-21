@@ -7,7 +7,7 @@ layout: archive
 
 {% if site.author.github %}
   <div class="wordwrap">
-    You can also find my projects on 
+    You can also find my projects on my GitHub page
     <a href="https://github.com/{{ site.author.github | uri_escape }}">{{ site.author.github }}</a>.
   </div>
 {% endif %}
